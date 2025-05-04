@@ -1,2 +1,0 @@
-# SoapCartel
-SoapCartelCo
